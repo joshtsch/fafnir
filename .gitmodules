@@ -1,0 +1,3 @@
+[submodule "fafnir_scraper"]
+	path = fafnir_scraper
+	url = git@github.com:joshtsch/fafnir_scraper
